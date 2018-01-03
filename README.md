@@ -7,6 +7,8 @@ App link:
 ## Functionality
 - Authenticates users via firebase token (Signup/ Login pages).
 - Create, Read, Update, Delete operations on recipes & shopping list (which contains ingredients).
+- Used firebase as dummy backend and authentication done via email and password.
+- Addition and updating of new recipes can be done only when you are logged in.
 - Session maintenance using tokens from firebase by appending each request with the token.
 
 ## Features
