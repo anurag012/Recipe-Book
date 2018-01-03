@@ -1,6 +1,9 @@
 # Recipe-Book
 This is a Single Page Application developed using Angular 4. It manages recipes & ingredients.
 
+App link:
+[Recipe Book](https://recipe-book-1.herokuapp.com/)
+
 ## Functionality
 - Authenticates users via firebase token (Signup/ Login pages).
 - Create, Read, Update, Delete operations on recipes & shopping list (which contains ingredients).
