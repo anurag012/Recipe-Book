@@ -10,7 +10,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "postinstall": "ng build --prod --aot --app 1"
+    "postinstall": "ng build --prod --aot"
   },
   "private": true,
   "dependencies": {
@@ -20,6 +20,7 @@
     "@angular/compiler-cli": "^5.0.0",
     "@angular/compiler": "^5.0.0",
     "@angular/core": "^5.0.0",
+    "@angular/platform-server": "^5.1.2",
     "@angular/forms": "^5.0.0",
     "@angular/http": "^5.0.0",
     "@angular/platform-browser": "^5.0.0",
